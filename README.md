@@ -36,4 +36,16 @@ This method would involve mapping certain patterns within the infinite digits of
 This concept bridges multiple disciplines, including interstellar communication strategies, the universality of mathematical constants, and the parallels between biological processes and information theory. Its distinctive approach makes it a compelling subject for further exploration and speculative research, which I am eager to pursue or collaborate on.
 
 
+------------------------------------
+
+## UBC OpenJupyter Notebooks
+
+![alt text](image-7.png)
+
+## Github CodeSpaces
+
 ![alt text](image-6.png)
+
+## Google Colab Notebooks
+
+![alt text](image-8.png)
