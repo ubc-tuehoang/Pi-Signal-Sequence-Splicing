@@ -44,7 +44,7 @@ This concept bridges multiple disciplines, including interstellar communication 
 
 ## Github CodeSpaces
 
-![alt text](image-6.png)
+![alt text](image-9.png)
 
 ## Google Colab Notebooks
 
