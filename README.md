@@ -1,8 +1,8 @@
 # π Signal Sequence Splicing with Machine Learning for Theoretical Exploration
 
-- Dare to dream
-- Ignite your inspiration and innovation
-- Strive for excellence
+- Dare to Dream
+- Inspire Bold Leadership
+- Embrace Diversity in Thought and Innovation
 - Discover the universe together and unlock the depths of knowledge and exploration.
 
 ------------------------------
