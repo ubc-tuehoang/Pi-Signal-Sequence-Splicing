@@ -23,9 +23,11 @@ The RNA Sequence:
 
 ----------------------------------
 
-The concept’s uniqueness is amplified through the application of Machine Learning (ML) techniques, which enhance the theoretical exploration of Pi sequence splicing. ML algorithms help identify significant patterns within Pi's digits, optimize splicing methods, and simulate how extraterrestrial beings might interpret these encoded messages. This integration of ML enables researchers to investigate diverse combinations of Pi splices, uncover hidden structures, and refine the encoding and decoding processes, pushing the boundaries of our understanding in this groundbreaking field.
+In genetics, DNA and RNA contain sequences called introns and exons. Introns are non-coding regions that do not directly contribute to the production of proteins, while exons are coding regions that contain the actual instructions for building proteins. During a process called RNA splicing, the introns are removed, and the exons are joined together to form a continuous sequence that can be translated into a protein. This splicing process is crucial for ensuring that only the relevant, active genetic information is used in the creation of proteins.
 
-Just as DNA undergoes replication, transcription, and translation to form the essential proteins for life, "Pi Signal Sequence Splicing" innovatively blends mathematical and biological principles. This approach bridges the gap between abstract mathematical constants and the fundamental processes of life, offering a unique perspective on information exchange on a cosmic scale.
+Now, if we apply this concept to the idea of using Pi (π) as a mapping tool for interstellar communication or information encoding, the digits of Pi can be thought of as analogous to a sequence containing both "introns" (irrelevant or non-message-bearing digits) and "exons" (meaningful, message-bearing digits). Just as in RNA splicing, where the introns are removed to reveal an active sequence, one could theoretically "splice" the digits of Pi by identifying and extracting specific sequences (exons) that encode a meaningful message, while disregarding the irrelevant parts (introns).
+
+This method would involve mapping certain patterns within the infinite digits of Pi to predetermined sequences that represent intelligible messages. By identifying and "splicing" these patterns—much like the biological process of removing introns and joining exons—one could extract a coherent and active signal from within the seemingly random digits of Pi. This approach could potentially be used to communicate complex information, either as a form of interstellar message or as a unique encoding strategy within computational systems.
 
 ![alt text](image-5.png)
 
